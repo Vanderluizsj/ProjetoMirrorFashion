@@ -3,7 +3,7 @@
 }*/
 .container{
     margin: 0 auto;
-    width: 50%;
+    width: 50%; /*na apostila era 940 px, mas não ficava no meio e não se ajustava a tela*/
     /*margin-right: auto;
     margin-left: auto;*/
 }
